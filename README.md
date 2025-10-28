@@ -1,7 +1,7 @@
 <!-- Profil Başlığı -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF4B91&center=true&vCenter=true&width=435&lines=👋+Merhaba,+ben+Mehmet+Ali;💻+Jr.+Web+Developer;🚀+Full+Stack+Developer+olma+yolunda" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF4B91&center=true&vCenter=true&width=500&lines=👋+Merhaba,+ben+Mehmet+Ali;💻+Jr.+Web+Developer;🚀+Full+Stack+Developer+olma+yolunda!" alt="Typing SVG" />
+</div>
 
 ---
 
