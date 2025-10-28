@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=👋+Merhaba,+ben+Mehmet+Ali!;💻+Jr.+Web+Developer;🚀+Full+Stack+Developer+Olma+Yolunda" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Merhaba, ben Mehmet Ali</h1>
 
 <p align="center">
-  💻 Jr. Web Developer | 🎯 Hedef: Full Stack Developer <br>
+  💻 Jr. Web Developer | 🎯 Hedef: Full Stack Developer<br>
   📍 Türkiye | 🌍 Uzaktan (Remote) çalışmaya açık
 </p>
 
@@ -13,51 +11,53 @@
 - 🚀 Web geliştirme alanında kendimi sürekli geliştiriyorum.  
 - 🔥 HTML, CSS, JS üzerinde aktif olarak çalışıyorum.  
 - 🎓 KTÜ Bilgisayar Bilimleri 1. sınıf öğrencisiyim.  
-- 💼 Freelance işler için iletişime geçebilirsin.  
+- 💼 Freelance işler için iletişime geçebilirsin.
 
 ---
 
-### 🧰 Teknolojiler
+### 🛠️ Teknolojiler
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
 </p>
 
 ---
 
-### 🌐 Projelerim
-- 🔗 [Portföy Sitem (Canlı)](https://mehmetali-devv.github.io/portfolio)
-- 💾 [Portfolio Reposu](https://github.com/mehmetali-devv/portfolio)
+### 📊 GitHub İstatistikleri
 
----
-
-### 📊 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetali-devv&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetali-devv&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-### 🔥 Aktiflik Grafiğim
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetali-devv&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetali-devv&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetali-devv&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
 ### 👁️ Ziyaretçi Sayısı
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetali-devv&label=Profil+Ziyaretçi+Sayısı&color=ff69b4&style=flat-square" alt="Ziyaretçi Sayacı"/>
+  <img src="https://komarev.com/ghpvc/?username=mehmetali-devv&label=Profil Ziyaretçi Sayısı&color=ff69b4&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
 
-### 📫 İletişim
-- ✉️ **ahmetali1760@gmail.com**  
-- 🧩 GitHub: [mehmetali-devv](https://github.com/mehmetali-devv)
+### 💌 İletişim
+
+<p align="center">
+  <a href="mailto:ahmetali1760@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://github.com/mehmetali-devv">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  🚀 <b>“Küçük adımlar büyük farklar yaratır.”</b>  
+  🚀 <b>“Küçük adımlar büyük farklar yaratır.”</b>
 </p>
