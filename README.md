@@ -1,6 +1,6 @@
-<!-- Profil Başlığı (animasyonlu) -->
+<!-- 🌟 Profil Başlığı (Animasyonlu) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF4B91&center=true&vCenter=true&width=520&lines=👋+Merhaba,+ben+Mehmet+Ali;💻+Jr.+Web+Developer;🚀+Full+Stack+Developer+olma+yolunda!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF4B91&center=true&vCenter=true&width=750&lines=👋+Merhaba,+ben+Mehmet+Ali;💻+Jr.+Web+Developer;🚀+Full+Stack+Developer+olma+yolunda!" alt="Typing SVG" />
 </div>
 
 ---
@@ -49,10 +49,12 @@
   <a href="https://github.com/mehmetali-devv">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <!-- LinkedIn kullanmak istersen aşağıdaki satırı aç ve URL'ni ekle -->
-  <!-- <a href="https://www.linkedin.com/in/KENDI-KULLANICI-ADIN/">
+  <!-- LinkedIn eklemek istersen bu satırı açıp kendi linkini gir -->
+  <!--
+  <a href="https://www.linkedin.com/in/KENDI-KULLANICI-ADIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a> -->
+  </a>
+  -->
 </p>
 
 ---
