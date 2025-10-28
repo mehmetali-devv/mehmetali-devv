@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">👋 Merhaba, ben Mehmet Ali</h1>
 
 <p align="center">
