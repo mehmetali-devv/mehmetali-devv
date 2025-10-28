@@ -1,6 +1,6 @@
-<!-- Profil Başlığı -->
+<!-- Profil Başlığı (animasyonlu) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF4B91&center=true&vCenter=true&width=500&lines=👋+Merhaba,+ben+Mehmet+Ali;💻+Jr.+Web+Developer;🚀+Full+Stack+Developer+olma+yolunda!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF4B91&center=true&vCenter=true&width=520&lines=👋+Merhaba,+ben+Mehmet+Ali;💻+Jr.+Web+Developer;🚀+Full+Stack+Developer+olma+yolunda!" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,24 +14,22 @@
 ---
 
 ### 🛠️ Teknolojiler
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
 
 ---
 
 ### 📊 GitHub İstatistikleri
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetali-devv&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetali-devv&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetali-devv&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetali-devv&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -44,7 +42,6 @@
 ---
 
 ### 💌 İletişim
-
 <p align="center">
   <a href="mailto:ahmetali1760@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
@@ -52,7 +49,27 @@
   <a href="https://github.com/mehmetali-devv">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
+  <!-- LinkedIn kullanmak istersen aşağıdaki satırı aç ve URL'ni ekle -->
+  <!-- <a href="https://www.linkedin.com/in/KENDI-KULLANICI-ADIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a> -->
 </p>
+
+---
+
+## 🌍 Freelance Services
+💡 *I help individuals and businesses build modern, responsive, and visually appealing web applications.*
+
+**What I Offer**
+- Custom website & landing page development  
+- Front-end with **HTML, CSS, JavaScript, React**  
+- Back-end integration using **Node.js & Express**  
+- Clean, maintainable, and scalable code  
+- Pixel-perfect responsive design for all devices  
+
+**Let’s Work Together**
+- 📧 **Email:** ahmetali1760@gmail.com  
+- 🌐 **Portfolio:** [mehmetali-devv.github.io/portfolio](https://mehmetali-devv.github.io/portfolio)
 
 ---
 
