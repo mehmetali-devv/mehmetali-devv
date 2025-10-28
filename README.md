@@ -1,8 +1,6 @@
-<h1 align="center">👋 Merhaba, ben Mehmet Ali</h1>
-
+<!-- Profil Başlığı -->
 <p align="center">
-  💻 Jr. Web Developer | 🎯 Hedef: Full Stack Developer<br>
-  📍 Türkiye | 🌍 Uzaktan (Remote) çalışmaya açık
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF4B91&center=true&vCenter=true&width=435&lines=👋+Merhaba,+ben+Mehmet+Ali;💻+Jr.+Web+Developer;🚀+Full+Stack+Developer+olma+yolunda" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,7 +38,7 @@
 
 ### 👁️ Ziyaretçi Sayısı
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetali-devv&label=Profil Ziyaretçi Sayısı&color=ff69b4&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=mehmetali-devv&label=Profil+Ziyaretçi+Sayısı&color=ff69b4&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
