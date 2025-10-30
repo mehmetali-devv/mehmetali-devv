@@ -1,6 +1,6 @@
 <!-- PROFIL BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehmetali-devv/mehmetali-devv/main/banner.png?raw=true" 
+  <img src="https://raw.githubusercontent.com/mehmetali-devv/mehmetali-devv/main/banner2.png?raw=true" 
        alt="Mehmet Ali | Jr. Web Developer" width="100%">
 </p>
 
