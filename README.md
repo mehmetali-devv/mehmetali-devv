@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <i>“Consistency turns curiosity into mastery.”</i>
+  <i>“Small steps make big differences.”</i>
 </p>
