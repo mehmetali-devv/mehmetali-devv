@@ -37,13 +37,12 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
+### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetali-devv&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetali-devv&layout=compact&theme=radical" alt="Top Langs" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetali-devv&show_icons=true&theme=radical&hide_border=true" alt="Mehmet Ali Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetali-devv&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
-
 ---
 
 ## 📫 Bana Ulaş
