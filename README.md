@@ -41,16 +41,22 @@
 ### 🤝 Benimle Bağlantı Kur
 
 <div align="center">
-<p align="center">
-  <a href="mailto:SENİN_MAİLİN@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <i>“Small steps make big differences.”</i>
-</p>
 
----
+### 🤝 Benimle Bağlantı Kur
+
+<a href="mailto:SENİN_MAİLİN@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br>
+
+`ahmetali1760@gmail.com`
+
+<br>
+
+*"Small steps make big differences."*
+
+</div>
 
 ### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
