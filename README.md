@@ -40,10 +40,13 @@
 
 ### 🤝 Benimle Bağlantı Kur
 
-<p align="left">
-  <a href="mailto:ahmetali1760@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<div align="center">
+
+### 🤝 Benimle Bağlantı Kur
+
+<a href="mailto:ahmetali1760@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 <p align="center">
   <i>“Small steps make big differences.”</i>
