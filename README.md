@@ -41,13 +41,11 @@
 ### 🤝 Benimle Bağlantı Kur
 
 <div align="center">
-
-
-
-<a href="mailto:ahmetali1760@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
+<p align="center">
+  <a href="mailto:SENİN_MAİLİN@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <i>“Small steps make big differences.”</i>
 </p>
