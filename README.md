@@ -41,7 +41,7 @@
 ## 📫 Bana Ulaş
 
 <p align="center">
-  <a href="mailto:mehmetalidevv@gmail.com"><img src="https://img.shields.io/badge/-Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ahmetali1760@gmail.com"><img src="https://img.shields.io/badge/-Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mehmetali-devv"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
